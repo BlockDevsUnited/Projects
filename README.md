@@ -1,7 +1,7 @@
 # Projects
 Summary of all official BDU Projects, project managers, and bounty allocations. 
 
-Official projects are currently chosen by the BDU Foundation, but soon they will be chosen by our DAO instead. Community members can suggest new projects in the discord group
+Official projects are currently chosen by the BDU Foundation, but soon they will be chosen by our DAO instead. 
 
 Each project 
 - is assigned an individual or a small team as project manager. 
@@ -44,4 +44,4 @@ Each project
 - BDU github management
 - BDU website server management
 
-
+Community members are welcome suggest new projects in the discord group.
