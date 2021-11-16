@@ -38,7 +38,7 @@ Each project
 ### Community
 - Discord management
 - Social Media management 
-- Offical Events
+- Official Events
 
 ### Asset Management
 - BDU github management
